@@ -123,7 +123,7 @@
         "Category": "Server Settings",
         "Description": "Starting size of the server (max player count).",
         "Keywords": "dynamic,first,size",
-        "FieldName": "dynamicmaxsize",
+        "FieldName": "dynamicfirstsize",
         "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "-dynamicfirstsize=",
