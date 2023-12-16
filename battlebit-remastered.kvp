@@ -15,7 +15,7 @@ App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=BattleBit Remastered
 App.CommandLineArgs={{$PlatformArgs}} {{$FormattedArgs}}
-App.WindowsCommandLineArgs=-batchmode -nographics
+App.WindowsCommandLineArgs="-batchmode" "-nographics"
 App.CommandLineParameterFormat="-{0}={1}"
 App.CommandLineParameterDelimiter= 
 App.RapidStartup=false
