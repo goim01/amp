@@ -1,0 +1,16 @@
+[
+    {
+        "Protocol": "UDP",
+        "Port": "30000",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "30001",
+        "Name": "Steam Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort"
+    }
+]
