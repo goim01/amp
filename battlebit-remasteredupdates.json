@@ -11,16 +11,5 @@
         "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
-    },
-    {
-        "UpdateStageName": "Public Update",
-        "UpdateSourcePlatform": "Windows",
-        "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "671860",
-        "UpdateSourceArgs": "671860",
-        "UnzipUpdateSource": false,
-        "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
-        "OneShot": false
     }
 ]

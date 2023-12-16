@@ -17,6 +17,23 @@
         "EnumValues": {}
     },
     {
+        "DisplayName": "Port",
+        "Category": "Server Settings",
+        "Description": "The game port of the server.",
+        "Keywords": "port",
+        "FieldName": "port",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "port",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "30000",
+        "Placeholder": "30000",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
         "DisplayName": "Password",
         "Category": "Server Settings",
         "Description": "The server's password",
